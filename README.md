@@ -37,13 +37,20 @@ The **Crypto Converter** is a React-based application that lets you convert amou
 - **Debounce Technique**: To limit the frequency of API calls. 🔄
 
 ## How to Run 🏃‍♀️
+To get started with the Crypto Converter, follow these steps:
 
-1. Clone the repository: `git clone <repo-url>` 📦
-2. Navigate to the project directory: `cd <project-directory>` 📂
-3. Install dependencies: `npm install` 🛠️
-4. Start the development server: `npm start` 🚀
-5. Open the app in your browser at `http://localhost:3000` 🌍
-
-## Contributing 🤝
-
-Feel free to open issues or submit pull requests to contribute to this project. Your contributions are welcome! ✨
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/chenle228/CryptoConverter.git
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd CryptoConverter
+3. **Install Dependencies**:
+   ```bash
+   npm install
+4. **Run the Application**:
+   ```bash
+   npm start
+5. **Open your browser and navigate to the link below to see the app in action!** 🚀
+   ```bash
+   http://localhost:3000
